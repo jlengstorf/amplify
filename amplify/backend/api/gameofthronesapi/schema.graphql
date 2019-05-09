@@ -1,0 +1,6 @@
+type Character @model {
+  id: ID!
+  name: String!
+  description: String
+  avatar: String
+}
